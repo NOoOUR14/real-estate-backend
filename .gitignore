@@ -1,3 +1,11 @@
 node_modules/
 .env
-uploads/
+uploads/*
+!uploads/.gitkeep
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
+coverage/
+.nyc_output/
